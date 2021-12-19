@@ -18,7 +18,7 @@ This file tells git to use UnityYAMLMerge.
 
 ## Step 5
 Add an entry to your PATH environment variable (if you haven't already).
-The value should be the path to your Unity "tools" folder. E.g. C:\Program Files\Unity\Hub\Editor\<unity_version>\Editor\Data\Tools
+The value should be the path to your Unity "tools" folder. E.g. C:\Program Files\Unity\Hub\Editor\\<unity_version>\Editor\Data\Tools
 
 ## Step 6
 Change the following settings in Unity.
