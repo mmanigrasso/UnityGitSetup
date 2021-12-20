@@ -2,7 +2,7 @@
 Steps to set up git to work correctly with Unity projects (with git bash)
 
 ## Step 1
-Initialize the git repo and clone it.
+Initialize the git repo.
 
 ## Step 2
 Add a .gitignore file. Paste the contents of the provided .gitignore file of this repo into your own.
